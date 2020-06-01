@@ -1,0 +1,25 @@
+*.pdf
+*.pptx
+*.html
+
+*.bak
+*~
+\#*\#
+# Mac
+.DS_Store
+TAGS
+# *.txt
+
+.env
+.editorconfig
+
+# Windows image thumbnail file
+Thumbs.db
+
+# Thumbnails
+._*
+
+## OSX
+.DS_Store
+.AppleDouble
+.LSOverride
