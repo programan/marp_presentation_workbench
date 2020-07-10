@@ -18,6 +18,8 @@ section.toc, section.npx-execute ul li, section.docker-execute ul li{
 
 
 <!-- _class: lead -->
+<!-- HTMLコメントはプレゼンターノートになる -->
+<!-- HTMLとPPTXのプレゼンテーション時に表示可能 -->
 # Marp CLI入門
 
 Programan
